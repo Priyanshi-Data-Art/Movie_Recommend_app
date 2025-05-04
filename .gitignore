@@ -1,0 +1,31 @@
+# Ignore virtual environments
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints (if using any)
+.ipynb_checkpoints
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# VS Code/IDE folders
+.vscode/
+.idea/
+
+# Other potentially large or sensitive files
+*.sqlite3
+*.db
+
